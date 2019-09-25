@@ -1,4 +1,4 @@
-# VODCON
+# DS-VIC
 
 ## Running experiments
 
